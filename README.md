@@ -27,6 +27,7 @@
 <div align = "center">
 <a href = "https://www.github.com/kavindu-mane/react-percentage-bar" alt = "demo" ><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=react-percentage-bar&show_owner=true&theme=blue-green" alt = "rpb"/></a>
 <a href = "https://www.github.com/kavindu-mane/CreateME" alt = "demo" ><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green" alt = "CreateME"/></a>
+<a href = "https://www.github.com/kavindu-mane/Visitors-Counter" alt = "demo" ><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=Visitors-Counter&show_owner=true&theme=blue-green" alt = "Visitors Counter"/></a>
 </div>
 
 
